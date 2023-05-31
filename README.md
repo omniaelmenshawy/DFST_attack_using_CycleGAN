@@ -47,7 +47,7 @@ Single image evaluation provides a more detailed analysis for individual images,
 
 ## Acknowledgments
 
-This project is part of a term project for the Adversarial Machine Learning course implemented with my colleage Qatrelnada Almarzoq and under the supervision of Prof. Ehsan Nowrozi in the department of Artificial Intelligence Engineering in Bahcesehir University. It serves as a hands-on exploration of the implementation of adversarial attacks in machine learning, fostering a deeper understanding of the field. It also validates the results of the original paper on the DFST attack, contributing to transparency and reliability in machine learning research.
+This project is part of a term project for the Adversarial Machine Learning course implemented with my colleage Qatrelnada Almarzoq and under the supervision of Prof. Ehsan Nowroozi in the department of Artificial Intelligence Engineering in Bahcesehir University. It serves as a hands-on exploration of the implementation of adversarial attacks in machine learning, fostering a deeper understanding of the field. It also validates the results of the original paper on the DFST attack, contributing to transparency and reliability in machine learning research.
 
 ## Disclaimer
 
